@@ -1,17 +1,25 @@
-# discount_calculator_app
+# Discount Calculator App
 
-A new Flutter project.
+## Project Title
+Discount Calculator App
 
-## Getting Started
+## Description
+This is a Flutter mobile application that helps users calculate discount amounts and final prices quickly and easily.
 
-This project is a starting point for a Flutter application.
+## Features
+- Enter original price
+- Enter discount percentage
+- Calculate discount amount
+- Display final price
+- Clear button to reset inputs
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## How It Works
+The user enters the original price and discount percentage.
+When the Calculate button is pressed, the application calculates the discount amount and the final price, then displays the results on the screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Noor
